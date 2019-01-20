@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:06:22, I have solved **2** / **785** problems while **0** are still locked.
+Until 2019-01-20 14:07:17, I have solved **3** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 2 
+1. JavaScript: 3 
 2. Java: 0
 3. Python: 0
 
@@ -20,7 +20,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\007.%20Reverse%20Integer\1.js)|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
-|009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|
+|009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\009.%20Palindrome%20Number\1.js)|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|
