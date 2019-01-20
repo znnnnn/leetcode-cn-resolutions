@@ -238,7 +238,8 @@ class Readme:
             f.write('## LeetCode Solution Table\n')
             # f.write('| ID | Title | Difficulty | JavaScript | Java | Python | C++ | \n')
             f.write('| ID | Title | Difficulty | JavaScript | Java | Python | \n')
-            f.write('|:---:' * 7 + '|\n')
+            # 这里根据数量修改
+            f.write('|:---:' * 6 + '|\n')
             table, table_item = table_instance
             # print(table)
             # for i in range(2):
