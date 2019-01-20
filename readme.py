@@ -103,14 +103,14 @@ class TableInform:
             os.mkdir(oj_algorithms)
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id_ + '. ' + item.title
-            print question_folder_name
+            # print question_folder_name
             if os.name != 'posix':
                 # 如果不是linux，那么就要吧后面的问号去掉
                 # print question_folder_name
                 question_folder_name = question_folder_name.strip('?')
                 # pass
             if not os.path.exists(question_folder_name):
-                # print(question_folder_name + 'is not exits, create it now....')
+                print(question_folder_name + 'is not exits, create it now....')
                 os.mkdir(question_folder_name)
 
     def update_table(self, oj):

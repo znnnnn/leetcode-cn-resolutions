@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-01-20 13:43:54, I have solved **0** / **785** problems while **0** are still locked.
+Until 2019-01-20 13:47:53, I have solved **1** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
+1. JavaScript: 1 
 2. Java: 0
 3. Python: 0
 
@@ -12,7 +12,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | JavaScript | Java | Python | 
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|To Do|To Do|To Do|
+|001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\001.%20Two%20Sum\1.js)|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
