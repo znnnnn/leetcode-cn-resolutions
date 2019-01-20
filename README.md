@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:08:24, I have solved **5** / **785** problems while **0** are still locked.
+Until 2019-01-20 14:11:07, I have solved **6** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 4 
+1. JavaScript: 5 
 2. Java: 1
 3. Python: 0
 
@@ -580,7 +580,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |768|[Max Chunks To Make Sorted II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|To Do|To Do|To Do|
 |769|[Max Chunks To Make Sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|To Do|
 |770|[Basic Calculator IV](https://leetcode-cn.com/problems/basic-calculator-iv/description/) |Hard|To Do|To Do|To Do|
-|771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/description/) |Easy|To Do|To Do|To Do|
+|771|[Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\771.%20Jewels%20and%20Stones\1.js)|To Do|To Do|
 |700|[Search in a Binary Search Tree](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|
 |701|[Insert into a Binary Search Tree](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/description/) |Medium|To Do|To Do|To Do|
 |773|[Sliding Puzzle](https://leetcode-cn.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|
