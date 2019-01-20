@@ -1,34 +1,22 @@
-### [20\. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+### [771\. 宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 
 难度 **简单**
 
-给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。
+ 给定字符串`J` 代表石头中宝石的类型，和字符串 `S`代表你拥有的石头。 `S` 中每个字符代表了一种你拥有的石头的类型，你想知道你拥有的石头中有多少是宝石。
 
-有效字符串需满足：
-
-注意空字符串可被认为是有效字符串。
+`J` 中的字母不重复，`J` 和 `S`中的所有字符都是字母。字母区分大小写，因此`"a"`和`"A"`是不同类型的石头。
 
 **示例 1:**
 
-**示例 2:**
+**示例 2:**
 
-**示例 3:**
-
-**示例 4:**
-
-**示例 5:**
+**注意:**
 
 ```
-输入: "()"
-输出: true
-输入: "()[]{}"
-输出: true
-输入: "(]"
-输出: false
-输入: "([)]"
-输出: false
-输入: "{[]}"
-输出: true
+输入: J = "aA", S = "aAAbbbb"
+输出: 3
+输入: J = "z", S = "ZZ"
+输出: 0
 ```
 
 #### Solution
@@ -37,49 +25,17 @@ Language: **JavaScript**
 
 ```javascript
 /**
- * @param {string} s
- * @return {boolean}
+ * @param {string} J
+ * @param {string} S
+ * @return {number}
  */
-var isValid = function(s) {
-    
-    // 堆栈的概念
-    
-    const B = {
-        "(":1,
-        ")":-1,
-        "{":2,
-        "}":-2,
-        "[":3,
-        "]":-3
-    }
-    
-    if(s.length <= 0){
-       return true
-    }
-    
-    let stack = [s[0]]
-    
-    for(let i=1;i<s.length;i++){
-        
-        
-        if(B[s[i]] + B[stack[stack.length-1]] == 0){
-            stack.pop()  
-            
-        }else{
-            stack.push(s[i])
-        }
-        
-        // s[i] 循环到第几个
-        // stack[stack.length-1]  //备选池最后一个
-        
-        // console.log('第'+i+'次执行结束后stack:',stack)
-        // console.log(s[i],stack[stack.length-1])
-    }
-    
-    if(stack.length == 0){
-        return true
-    }else {
-        return false
-    }
+var numJewelsInStones = function(J, S) {
+  if(J.length === 0) {
+      return 0;
+  }
+  return [...J].reduce((acc, v) => {
+      const resArr = S.match(new RegExp(`${v}`,'g'));
+      return acc += Array.isArray(resArr) ? resArr.length : 0
+  }, 0)
 };
 ```

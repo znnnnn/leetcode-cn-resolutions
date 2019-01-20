@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:11:07, I have solved **6** / **785** problems while **0** are still locked.
+Until 2019-01-20 14:14:01, I have solved **7** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 5 
+1. JavaScript: 6 
 2. Java: 1
 3. Python: 0
 
@@ -748,7 +748,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |926|[Flip String to Monotone Increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing/description/) |Medium|To Do|To Do|To Do|
 |927|[Three Equal Parts](https://leetcode-cn.com/problems/three-equal-parts/description/) |Hard|To Do|To Do|To Do|
 |928|[Minimize Malware Spread II](https://leetcode-cn.com/problems/minimize-malware-spread-ii/description/) |Hard|To Do|To Do|To Do|
-|929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/description/) |Easy|To Do|To Do|To Do|
+|929|[Unique Email Addresses](https://leetcode-cn.com/problems/unique-email-addresses/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\929.%20Unique%20Email%20Addresses\1.js)|To Do|To Do|
 |930|[Binary Subarrays With Sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/description/) |Medium|To Do|To Do|To Do|
 |931|[Minimum Falling Path Sum](https://leetcode-cn.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|To Do|
 |932|[Beautiful Array](https://leetcode-cn.com/problems/beautiful-array/description/) |Medium|To Do|To Do|To Do|
