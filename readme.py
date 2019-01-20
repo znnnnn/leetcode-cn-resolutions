@@ -1,5 +1,8 @@
+#coding:utf-8
 #!/usr/bin/env python
 # Created by Bruce yuan on 18-1-22.
+
+
 import requests
 import os
 import json
@@ -13,11 +16,11 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = '/home/yuan/PycharmProjects/algorithms_and_oj'
+    local_path = 'C:/Users/znnnnn/Desktop/leetcode-cn-resolutions'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/'
+    github_leetcode_url = 'https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms'
     # solution of pat,　暂时还没写
-    github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
+    # github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode-cn.com/problems/'
 
 
@@ -39,7 +42,7 @@ class Question:
         self.python = ''
         self.java = ''
         self.javascript = ''
-        self.c_plus_plus = ''
+        # self.c_plus_plus = ''
 
     def __repr__(self):
         """
@@ -100,11 +103,14 @@ class TableInform:
             os.mkdir(oj_algorithms)
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id_ + '. ' + item.title
+            print question_folder_name
             if os.name != 'posix':
                 # 如果不是linux，那么就要吧后面的问号去掉
-                question_folder_name = question_folder_name[:-1]
+                # print question_folder_name
+                question_folder_name = question_folder_name.strip('?')
+                # pass
             if not os.path.exists(question_folder_name):
-                print(question_folder_name + 'is not exits, create it now....')
+                # print(question_folder_name + 'is not exits, create it now....')
                 os.mkdir(question_folder_name)
 
     def update_table(self, oj):
@@ -143,13 +149,13 @@ class TableInform:
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                             self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
-                        elif item.endswith('.cpp'):
-                            complete_info.solved['c++'] += 1
-                            folder_url = folder.replace(' ', "%20")
-                            folder_url = os.path.join(folder_url, item)
-                            folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            # print(folder_url)
-                            self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
+                        # elif item.endswith('.cpp'):
+                        #     complete_info.solved['c++'] += 1
+                        #     folder_url = folder.replace(' ', "%20")
+                        #     folder_url = os.path.join(folder_url, item)
+                        #     folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                        #     # print(folder_url)
+                        #     self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
                         elif item.endswith('.js'):
                             complete_info.solved['javascript'] += 1
                             folder_url = folder.replace(' ', "%20")
@@ -176,7 +182,7 @@ class CompleteInform:
     def __init__(self):
         self.solved = {
             'python': 0,
-            'c++': 0,
+            # 'c++': 0,
             'java': 0,
             'javascript': 0
         }
@@ -211,10 +217,10 @@ class Readme:
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
                    '\n1. JavaScript: {javascript} ' \
-                   '\n2. Python: {python}' \
-                   '\n3. C++: {c++}' \
-                   '\n4. Java: {java}' \
+                   '\n2. Java: {java}' \
+                   '\n3. Python: {python}' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
+                   # '\n3. C++: {c++}' \
                     self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
@@ -230,7 +236,8 @@ class Readme:
 
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
-            f.write('| ID | Title | Difficulty | JavaScript | Python | C++ | Java |\n')
+            # f.write('| ID | Title | Difficulty | JavaScript | Java | Python | C++ | \n')
+            f.write('| ID | Title | Difficulty | JavaScript | Java | Python | \n')
             f.write('|:---:' * 7 + '|\n')
             table, table_item = table_instance
             # print(table)
@@ -248,18 +255,20 @@ class Readme:
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
                     'js': item.javascript if item.javascript else 'To Do',
+                    'java': item.java if item.java else 'To Do',
                     'python': item.python if item.python else 'To Do',
-                    'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
-                    'java': item.java if item.java else 'To Do'
+                    # 'c++': item.c_plus_plus if item.c_plus_plus else 'To Do'
+
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
+                # line = '|{id}|{title}|{difficulty}|{js}|{java}|{python}|{C++}\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{js}|{java}|{python}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
 
 def main():
     table = TableInform()
-    table.update_table('leetcode-algorithms')
+    table.update_table('algorithms')
 
 
 if __name__ == '__main__':
