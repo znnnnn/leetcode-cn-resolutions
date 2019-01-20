@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:14:01, I have solved **7** / **785** problems while **0** are still locked.
+Until 2019-01-20 14:16:42, I have solved **8** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 6 
-2. Java: 1
+1. JavaScript: 7 
+2. Java: 2
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -424,7 +424,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |529|[Minesweeper](https://leetcode-cn.com/problems/minesweeper/description/) |Medium|To Do|To Do|To Do|
 |530|[Minimum Absolute Difference in BST](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|To Do|To Do|To Do|
 |532|[K-diff Pairs in an Array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/) |Easy|To Do|To Do|To Do|
-|535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|To Do|To Do|
+|535|[Encode and Decode TinyURL](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\535.%20Encode%20and%20Decode%20TinyURL\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\535.%20Encode%20and%20Decode%20TinyURL\1.java)|To Do|
 |537|[Complex Number Multiplication](https://leetcode-cn.com/problems/complex-number-multiplication/description/) |Medium|To Do|To Do|To Do|
 |538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/) |Easy|To Do|To Do|To Do|
 |539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/description/) |Medium|To Do|To Do|To Do|
