@@ -219,7 +219,7 @@ class Readme:
                    '\n1. JavaScript: {javascript} ' \
                    '\n2. Java: {java}' \
                    '\n3. Python: {python}' \
-                   '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
+                   '\n\nNote: :lock: means you need to buy a book from LeetCode \n'.format(
                    # '\n3. C++: {c++}' \
                     self.time, self.solved, self.total, self.locked, **self.others)
 

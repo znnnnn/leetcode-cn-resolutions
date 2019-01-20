@@ -1,12 +1,12 @@
 # Keep thinking, keep alive
-Until 2019-01-20 13:47:53, I have solved **1** / **785** problems while **0** are still locked.
+Until 2019-01-20 13:50:50, I have solved **1** / **785** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 1 
 2. Java: 0
 3. Python: 0
 
-Note: :lock: means you need to buy a book from LeetCode
+Note: :lock: means you need to buy a book from LeetCode 
 
 ----------------
 ## LeetCode Solution Table
