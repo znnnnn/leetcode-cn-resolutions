@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:07:17, I have solved **3** / **785** problems while **0** are still locked.
+Until 2019-01-20 14:07:40, I have solved **4** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 3 
-2. Java: 0
+1. JavaScript: 4 
+2. Java: 1
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -24,7 +24,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|
 |012|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|To Do|
-|013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|To Do|
+|013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\013.%20Roman%20to%20Integer\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\013.%20Roman%20to%20Integer\1.java)|To Do|
 |014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode-cn.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
