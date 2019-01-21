@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-20 14:16:42, I have solved **8** / **785** problems while **0** are still locked.
+Until 2019-01-21 13:28:51, I have solved **11** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 7 
-2. Java: 2
+1. JavaScript: 10 
+2. Java: 5
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -550,7 +550,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/description/) |Medium|To Do|To Do|To Do|
 |740|[Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/description/) |Medium|To Do|To Do|To Do|
 |741|[Cherry Pickup](https://leetcode-cn.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|
-|709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/) |Easy|To Do|To Do|To Do|
+|709|[To Lower Case](https://leetcode-cn.com/problems/to-lower-case/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\709.%20To%20Lower%20Case\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\709.%20To%20Lower%20Case\1.java)|To Do|
 |743|[Network Delay Time](https://leetcode-cn.com/problems/network-delay-time/description/) |Easy|To Do|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|
 |745|[Prefix and Suffix Search](https://leetcode-cn.com/problems/prefix-and-suffix-search/description/) |Hard|To Do|To Do|To Do|
@@ -725,7 +725,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |902|[Numbers At Most N Given Digit Set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|To Do|To Do|To Do|
 |903|[Valid Permutations for DI Sequence](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/description/) |Hard|To Do|To Do|To Do|
 |904|[Fruit Into Baskets](https://leetcode-cn.com/problems/fruit-into-baskets/description/) |Medium|To Do|To Do|To Do|
-|905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/description/) |Easy|To Do|To Do|To Do|
+|905|[Sort Array By Parity](https://leetcode-cn.com/problems/sort-array-by-parity/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\905.%20Sort%20Array%20By%20Parity\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\905.%20Sort%20Array%20By%20Parity\1.java)|To Do|
 |906|[Super Palindromes](https://leetcode-cn.com/problems/super-palindromes/description/) |Hard|To Do|To Do|To Do|
 |907|[Sum of Subarray Minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums/description/) |Medium|To Do|To Do|To Do|
 |908|[Smallest Range I](https://leetcode-cn.com/problems/smallest-range-i/description/) |Easy|To Do|To Do|To Do|
@@ -780,7 +780,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |958|[Check Completeness of a Binary Tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|
 |959|[Regions Cut By Slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes/description/) |Medium|To Do|To Do|To Do|
 |960|[Delete Columns to Make Sorted III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/description/) |Hard|To Do|To Do|To Do|
-|961|[N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|To Do|To Do|To Do|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\961.%20N-Repeated%20Element%20in%20Size%202N%20Array\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\961.%20N-Repeated%20Element%20in%20Size%202N%20Array\1.java)|To Do|
 |962|[Maximum Width Ramp](https://leetcode-cn.com/problems/maximum-width-ramp/description/) |Medium|To Do|To Do|To Do|
 |963|[Minimum Area Rectangle II](https://leetcode-cn.com/problems/minimum-area-rectangle-ii/description/) |Medium|To Do|To Do|To Do|
 |964|[Least Operators to Express Number](https://leetcode-cn.com/problems/least-operators-to-express-number/description/) |Hard|To Do|To Do|To Do|
