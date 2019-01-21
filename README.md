@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-21 13:28:51, I have solved **11** / **785** problems while **0** are still locked.
+Until 2019-01-21 20:18:50, I have solved **12** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 10 
-2. Java: 5
+1. JavaScript: 11 
+2. Java: 6
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -615,7 +615,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|
 |802|[Find Eventual Safe States](https://leetcode-cn.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|
 |803|[Bricks Falling When Hit](https://leetcode-cn.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|
-|804|[Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) |Easy|To Do|To Do|To Do|
+|804|[Unique Morse Code Words](https://leetcode-cn.com/problems/unique-morse-code-words/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\804.%20Unique%20Morse%20Code%20Words\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\804.%20Unique%20Morse%20Code%20Words\1.java)|To Do|
 |805|[Split Array With Same Average](https://leetcode-cn.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|
 |806|[Number of Lines To Write String](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|
 |807|[Max Increase to Keep City Skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|
