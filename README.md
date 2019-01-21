@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-21 20:18:50, I have solved **12** / **785** problems while **0** are still locked.
+Until 2019-01-21 21:23:36, I have solved **13** / **785** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 11 
-2. Java: 6
+1. JavaScript: 12 
+2. Java: 7
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -385,7 +385,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |475|[Heaters](https://leetcode-cn.com/problems/heaters/description/) |Easy|To Do|To Do|To Do|
 |476|[Number Complement](https://leetcode-cn.com/problems/number-complement/description/) |Easy|To Do|To Do|To Do|
 |477|[Total Hamming Distance](https://leetcode-cn.com/problems/total-hamming-distance/description/) |Medium|To Do|To Do|To Do|
-|479|[Largest Palindrome Product](https://leetcode-cn.com/problems/largest-palindrome-product/description/) |Easy|To Do|To Do|To Do|
+|479|[Largest Palindrome Product](https://leetcode-cn.com/problems/largest-palindrome-product/description/) |Hard|To Do|To Do|To Do|
 |480|[Sliding Window Median](https://leetcode-cn.com/problems/sliding-window-median/description/) |Hard|To Do|To Do|To Do|
 |481|[Magical String](https://leetcode-cn.com/problems/magical-string/description/) |Medium|To Do|To Do|To Do|
 |482|[License Key Formatting](https://leetcode-cn.com/problems/license-key-formatting/description/) |Easy|To Do|To Do|To Do|
@@ -646,7 +646,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |831|[Masking Personal Information](https://leetcode-cn.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|
 |641|[Design Circular Deque](https://leetcode-cn.com/problems/design-circular-deque/description/) |Medium|To Do|To Do|To Do|
 |622|[Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|To Do|
-|832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|
+|832|[Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\832.%20Flipping%20an%20Image\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\832.%20Flipping%20an%20Image\1.java)|To Do|
 |833|[Find And Replace in String](https://leetcode-cn.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode-cn.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|
 |835|[Image Overlap](https://leetcode-cn.com/problems/image-overlap/description/) |Medium|To Do|To Do|To Do|
