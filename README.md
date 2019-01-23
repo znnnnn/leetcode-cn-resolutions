@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-01-23 12:52:00, I have solved **14** / **786** problems while **0** are still locked.
+Until 2019-01-23 13:12:19, I have solved **15** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 14 
-2. Java: 8
-3. Python: 0
+1. JavaScript: 15 
+2. Java: 9
+3. Python: 1
 
 Note: :lock: means you need to buy a book from LeetCode 
 
@@ -488,7 +488,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|To Do|To Do|To Do|
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode-cn.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|
-|657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\1.java)|To Do|
+|657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\1.py)|
 |658|[Find K Closest Elements](https://leetcode-cn.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|
 |661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/description/) |Easy|To Do|To Do|To Do|
@@ -741,7 +741,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |919|[Complete Binary Tree Inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter/description/) |Medium|To Do|To Do|To Do|
 |920|[Number of Music Playlists](https://leetcode-cn.com/problems/number-of-music-playlists/description/) |Hard|To Do|To Do|To Do|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/description/) |Medium|To Do|To Do|To Do|
-|922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/) |Easy|To Do|To Do|To Do|
+|922|[Sort Array By Parity II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\922.%20Sort%20Array%20By%20Parity%20II\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\922.%20Sort%20Array%20By%20Parity%20II\1.java)|To Do|
 |923|[3Sum With Multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity/description/) |Medium|To Do|To Do|To Do|
 |924|[Minimize Malware Spread](https://leetcode-cn.com/problems/minimize-malware-spread/description/) |Hard|To Do|To Do|To Do|
 |925|[Long Pressed Name](https://leetcode-cn.com/problems/long-pressed-name/description/) |Easy|To Do|To Do|To Do|
