@@ -107,3 +107,13 @@ var judgeCircle = function(moves) {
   return x == 0 && y == 0;
 };
 ```
+
+```python
+class Solution:
+    def judgeCircle(self, moves):
+        """
+        :type moves: str
+        :rtype: bool
+        """
+        return moves.count('L') == moves.count('R') and moves.count('U') == moves.count('D')
+```
