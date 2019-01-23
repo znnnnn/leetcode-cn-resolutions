@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-21 21:23:36, I have solved **13** / **785** problems while **0** are still locked.
+Until 2019-01-23 12:52:00, I have solved **14** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 12 
-2. Java: 7
+1. JavaScript: 14 
+2. Java: 8
 3. Python: 0
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -488,7 +488,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |653|[Two Sum IV - Input is a BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|To Do|To Do|To Do|
 |654|[Maximum Binary Tree](https://leetcode-cn.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode-cn.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|
-|657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) |Easy|To Do|To Do|To Do|
+|657|[Robot Return to Origin](https://leetcode-cn.com/problems/robot-return-to-origin/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\657.%20Robot%20Return%20to%20Origin\1.java)|To Do|
 |658|[Find K Closest Elements](https://leetcode-cn.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|
 |661|[Image Smoother](https://leetcode-cn.com/problems/image-smoother/description/) |Easy|To Do|To Do|To Do|
@@ -797,3 +797,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |974|[Subarray Sums Divisible by K](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|
 |975|[Odd Even Jump](https://leetcode-cn.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|To Do|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/description/) |Easy|To Do|To Do|To Do|
+|978|[Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/description/) |Medium|To Do|To Do|To Do|
