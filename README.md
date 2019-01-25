@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-01-23 13:12:19, I have solved **15** / **786** problems while **0** are still locked.
+Until 2019-01-26 00:04:13, I have solved **17** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 15 
-2. Java: 9
-3. Python: 1
+1. JavaScript: 17 
+2. Java: 11
+3. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode 
 
@@ -175,7 +175,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|To Do|To Do|To Do|
 |168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/description/) |Easy|To Do|To Do|To Do|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/description/) |Easy|To Do|To Do|To Do|
-|171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) |Easy|To Do|To Do|To Do|
+|171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\171.%20Excel%20Sheet%20Column%20Number\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\171.%20Excel%20Sheet%20Column%20Number\1.java)|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|
 |174|[Dungeon Game](https://leetcode-cn.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|
@@ -372,7 +372,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |458|[Poor Pigs](https://leetcode-cn.com/problems/poor-pigs/description/) |Easy|To Do|To Do|To Do|
 |459|[Repeated Substring Pattern](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) |Easy|To Do|To Do|To Do|
 |460|[LFU Cache](https://leetcode-cn.com/problems/lfu-cache/description/) |Hard|To Do|To Do|To Do|
-|461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/) |Easy|To Do|To Do|To Do|
+|461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\461.%20Hamming%20Distance\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\461.%20Hamming%20Distance\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\461.%20Hamming%20Distance\1.py)|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/description/) |Medium|To Do|To Do|To Do|
 |463|[Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/description/) |Easy|To Do|To Do|To Do|
 |464|[Can I Win](https://leetcode-cn.com/problems/can-i-win/description/) |Medium|To Do|To Do|To Do|
