@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-26 19:32:48, I have solved **18** / **786** problems while **0** are still locked.
+Until 2019-01-28 13:17:56, I have solved **21** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 18 
-2. Java: 12
+1. JavaScript: 21 
+2. Java: 14
 3. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -13,8 +13,8 @@ Note: :lock: means you need to buy a book from LeetCode
 | ID | Title | Difficulty | JavaScript | Java | Python | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode-cn.com/problems/two-sum/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\001.%20Two%20Sum\1.js)|To Do|To Do|
-|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
-|003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
+|002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\002.%20Add%20Two%20Numbers\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\002.%20Add%20Two%20Numbers\1.java)|To Do|
+|003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\003.%20Longest%20Substring%20Without%20Repeating%20Characters\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\003.%20Longest%20Substring%20Without%20Repeating%20Characters\1.java)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
 |005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
