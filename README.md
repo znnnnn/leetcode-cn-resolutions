@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-29 12:05:02, I have solved **22** / **786** problems while **0** are still locked.
+Until 2019-01-29 12:40:21, I have solved **23** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 22 
-2. Java: 15
+1. JavaScript: 23 
+2. Java: 16
 3. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -28,7 +28,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|
 |015|[3Sum](https://leetcode-cn.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
-|017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|
+|017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\017.%20Letter%20Combinations%20of%20a%20Phone%20Number\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\017.%20Letter%20Combinations%20of%20a%20Phone%20Number\1.java)|To Do|
 |018|[4Sum](https://leetcode-cn.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|
