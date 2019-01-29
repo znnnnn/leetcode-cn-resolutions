@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-28 13:17:56, I have solved **21** / **786** problems while **0** are still locked.
+Until 2019-01-29 12:05:02, I have solved **22** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 21 
-2. Java: 14
+1. JavaScript: 22 
+2. Java: 15
 3. Python: 2
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -19,7 +19,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\007.%20Reverse%20Integer\1.js)|To Do|To Do|
-|008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
+|008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\008.%20String%20to%20Integer%20(atoi)\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\008.%20String%20to%20Integer%20(atoi)\1.java)|To Do|
 |009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\009.%20Palindrome%20Number\1.js)|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|To Do|
