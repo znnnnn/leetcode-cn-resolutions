@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-01-31 12:52:46, I have solved **24** / **786** problems while **0** are still locked.
+Until 2019-01-31 13:52:49, I have solved **25** / **786** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 24 
-2. Java: 17
-3. Python: 2
+1. JavaScript: 25 
+2. Java: 18
+3. Python: 3
 
 Note: :lock: means you need to buy a book from LeetCode 
 
@@ -39,7 +39,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|
 |027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|
-|028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) |Easy|To Do|To Do|To Do|
+|028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.py)|
 |029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|
 |031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/description/) |Medium|To Do|To Do|To Do|
