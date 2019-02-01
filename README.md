@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-02-01 23:24:50, I have solved **26** / **793** problems while **0** are still locked.
+Until 2019-02-01 23:27:15, I have solved **26** / **793** problems while **0** are still locked.
 
 Completion statistic: 
 1. JavaScript: 26 
 2. Java: 19
-3. Python: 3
+3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
 
@@ -38,7 +38,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |024|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|
-|027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.java)|To Do|
+|027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.py)|
 |028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.py)|
 |029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|
