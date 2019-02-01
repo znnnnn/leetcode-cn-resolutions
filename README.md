@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-01-31 13:52:49, I have solved **25** / **786** problems while **0** are still locked.
+Until 2019-02-01 23:24:50, I have solved **26** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 25 
-2. Java: 18
+1. JavaScript: 26 
+2. Java: 19
 3. Python: 3
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -38,7 +38,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |024|[Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|To Do|
 |026|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|To Do|
-|027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|To Do|To Do|To Do|
+|027|[Remove Element](https://leetcode-cn.com/problems/remove-element/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\027.%20Remove%20Element\1.java)|To Do|
 |028|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\028.%20Implement%20strStr()\1.py)|
 |029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|To Do|
@@ -797,4 +797,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |974|[Subarray Sums Divisible by K](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|
 |975|[Odd Even Jump](https://leetcode-cn.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|To Do|
 |976|[Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/description/) |Easy|To Do|To Do|To Do|
+|977|[Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/description/) |Easy|To Do|To Do|To Do|
 |978|[Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/description/) |Medium|To Do|To Do|To Do|
+|979|[Distribute Coins in Binary Tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/description/) |Medium|To Do|To Do|To Do|
+|980|[Unique Paths III](https://leetcode-cn.com/problems/unique-paths-iii/description/) |Hard|To Do|To Do|To Do|
+|981|[Time Based Key-Value Store](https://leetcode-cn.com/problems/time-based-key-value-store/description/) |Medium|To Do|To Do|To Do|
+|982|[Triples with Bitwise AND Equal To Zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|To Do|To Do|To Do|
+|983|[Minimum Cost For Tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/description/) |Medium|To Do|To Do|To Do|
+|984|[String Without AAA or BBB](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/description/) |Easy|To Do|To Do|To Do|

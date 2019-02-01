@@ -6,4 +6,3 @@ class Solution:
         :rtype: int
         """
         return haystack.find(needle)
-        
