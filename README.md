@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-01 23:28:32, I have solved **26** / **793** problems while **0** are still locked.
+Until 2019-02-02 14:01:53, I have solved **27** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 26 
-2. Java: 19
+1. JavaScript: 28 
+2. Java: 20
 3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -25,7 +25,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\011.%20Container%20With%20Most%20Water\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\011.%20Container%20With%20Most%20Water\1.java)|To Do|
 |012|[Integer to Roman](https://leetcode-cn.com/problems/integer-to-roman/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\012.%20Integer%20to%20Roman\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\012.%20Integer%20to%20Roman\1.java)|To Do|
 |013|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\013.%20Roman%20to%20Integer\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\013.%20Roman%20to%20Integer\1.java)|To Do|
-|014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|To Do|
+|014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\014.%20Longest%20Common%20Prefix\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\014.%20Longest%20Common%20Prefix\1.java)|To Do|
 |015|[3Sum](https://leetcode-cn.com/problems/3sum/description/) |Medium|To Do|To Do|To Do|
 |016|[3Sum Closest](https://leetcode-cn.com/problems/3sum-closest/description/) |Medium|To Do|To Do|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\017.%20Letter%20Combinations%20of%20a%20Phone%20Number\1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\017.%20Letter%20Combinations%20of%20a%20Phone%20Number\1.java)|To Do|
