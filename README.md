@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-02 14:01:53, I have solved **27** / **793** problems while **0** are still locked.
+Until 2019-02-03 13:55:42, I have solved **28** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 28 
-2. Java: 20
+1. JavaScript: 30 
+2. Java: 22
 3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -46,7 +46,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|To Do|
-|035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) |Easy|To Do|To Do|To Do|
+|035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\035.%20Search%20Insert%20Position\2.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms\035.%20Search%20Insert%20Position\2.java)|To Do|
 |036|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|To Do|
 |038|[Count and Say](https://leetcode-cn.com/problems/count-and-say/description/) |Easy|To Do|To Do|To Do|
