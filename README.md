@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-03 22:45:37, I have solved **28** / **793** problems while **0** are still locked.
+Until 2019-02-03 22:47:11, I have solved **29** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 30 
-2. Java: 22
+1. JavaScript: 31 
+2. Java: 23
 3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -59,7 +59,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|To Do|
 |046|[Permutations](https://leetcode-cn.com/problems/permutations/description/) |Medium|To Do|To Do|To Do|
 |047|[Permutations II](https://leetcode-cn.com/problems/permutations-ii/description/) |Medium|To Do|To Do|To Do|
-|048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/) |Medium|To Do|To Do|To Do|
+|048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/048.%20Rotate%20Image/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/048.%20Rotate%20Image/1.java)|To Do|
 |049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/description/) |Medium|To Do|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) |Medium|To Do|To Do|To Do|
 |051|[N-Queens](https://leetcode-cn.com/problems/n-queens/description/) |Hard|To Do|To Do|To Do|
