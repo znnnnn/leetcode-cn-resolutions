@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-04 23:25:19, I have solved **29** / **793** problems while **0** are still locked.
+Until 2019-02-04 23:30:19, I have solved **30** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 31 
-2. Java: 23
+1. JavaScript: 32 
+2. Java: 24
 3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -89,7 +89,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|
 |077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|
-|078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|To Do|To Do|To Do|
+|078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/078.%20Subsets/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/078.%20Subsets/1.java)|To Do|
 |079|[Word Search](https://leetcode-cn.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|
