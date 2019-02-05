@@ -18,16 +18,18 @@
  [1,2,3]
 */
 
-var subsets = function(nums) {
-  var lists = [[]];
+var subsets = function (nums) {
+  var lists = [
+    []
+  ];
 
   for (var i = 0; i < nums.length; i++) {
-      for (var j = 0, size = lists.length; j < size; j++) {
-          var list = lists[j].slice();
+    for (var j = 0, size = lists.length; j < size; j++) {
+      var list = lists[j].slice();
 
-          list.push(nums[i]);
-          lists.push(list);
-      }
+      list.push(nums[i]);
+      lists.push(list);
+    }
   }
   return lists;
 };
