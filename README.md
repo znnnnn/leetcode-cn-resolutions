@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-04 23:30:19, I have solved **30** / **793** problems while **0** are still locked.
+Until 2019-02-06 02:36:34, I have solved **31** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 32 
-2. Java: 24
+1. JavaScript: 33 
+2. Java: 25
 3. Python: 4
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -75,7 +75,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |061|[Rotate List](https://leetcode-cn.com/problems/rotate-list/description/) |Medium|To Do|To Do|To Do|
 |062|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/description/) |Medium|To Do|To Do|To Do|
 |063|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/description/) |Medium|To Do|To Do|To Do|
-|064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/description/) |Medium|To Do|To Do|To Do|
+|064|[Minimum Path Sum](https://leetcode-cn.com/problems/minimum-path-sum/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/064.%20Minimum%20Path%20Sum/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/064.%20Minimum%20Path%20Sum/1.java)|To Do|
 |065|[Valid Number](https://leetcode-cn.com/problems/valid-number/description/) |Hard|To Do|To Do|To Do|
 |066|[Plus One](https://leetcode-cn.com/problems/plus-one/description/) |Easy|To Do|To Do|To Do|
 |067|[Add Binary](https://leetcode-cn.com/problems/add-binary/description/) |Easy|To Do|To Do|To Do|
