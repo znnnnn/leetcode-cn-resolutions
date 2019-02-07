@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-02-06 02:36:34, I have solved **31** / **793** problems while **0** are still locked.
+Until 2019-02-06 21:31:59, I have solved **32** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 33 
-2. Java: 25
-3. Python: 4
+1. JavaScript: 34 
+2. Java: 26
+3. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode 
 
@@ -147,7 +147,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph/description/) |Medium|To Do|To Do|To Do|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/description/) |Medium|To Do|To Do|To Do|
 |135|[Candy](https://leetcode-cn.com/problems/candy/description/) |Hard|To Do|To Do|To Do|
-|136|[Single Number](https://leetcode-cn.com/problems/single-number/description/) |Easy|To Do|To Do|To Do|
+|136|[Single Number](https://leetcode-cn.com/problems/single-number/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/136.%20Single%20Number/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/136.%20Single%20Number/1.java)|[Python](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/136.%20Single%20Number/1.py)|
 |137|[Single Number II](https://leetcode-cn.com/problems/single-number-ii/description/) |Medium|To Do|To Do|To Do|
 |138|[Copy List with Random Pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/) |Medium|To Do|To Do|To Do|
 |139|[Word Break](https://leetcode-cn.com/problems/word-break/description/) |Medium|To Do|To Do|To Do|
