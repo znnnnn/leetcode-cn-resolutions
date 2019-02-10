@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-06 21:31:59, I have solved **32** / **793** problems while **0** are still locked.
+Until 2019-02-10 00:32:57, I have solved **33** / **793** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 34 
-2. Java: 26
+1. JavaScript: 35 
+2. Java: 27
 3. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -99,7 +99,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle/description/) |Hard|To Do|To Do|To Do|
 |086|[Partition List](https://leetcode-cn.com/problems/partition-list/description/) |Medium|To Do|To Do|To Do|
 |087|[Scramble String](https://leetcode-cn.com/problems/scramble-string/description/) |Hard|To Do|To Do|To Do|
-|088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|To Do|
+|088|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/088.%20Merge%20Sorted%20Array/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/088.%20Merge%20Sorted%20Array/1.java)|To Do|
 |089|[Gray Code](https://leetcode-cn.com/problems/gray-code/description/) |Medium|To Do|To Do|To Do|
 |090|[Subsets II](https://leetcode-cn.com/problems/subsets-ii/description/) |Medium|To Do|To Do|To Do|
 |091|[Decode Ways](https://leetcode-cn.com/problems/decode-ways/description/) |Medium|To Do|To Do|To Do|
