@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-02-11 05:18:57, I have solved **35** / **801** problems while **0** are still locked.
+Until 2019-02-11 23:34:37, I have solved **36** / **801** problems while **0** are still locked.
 
 Completion statistic: 
-1. JavaScript: 37 
-2. Java: 29
+1. JavaScript: 38 
+2. Java: 30
 3. Python: 5
 
 Note: :lock: means you need to buy a book from LeetCode 
@@ -88,7 +88,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |074|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/description/) |Medium|To Do|To Do|To Do|
 |075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/description/) |Medium|To Do|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|To Do|
-|077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|To Do|To Do|To Do|
+|077|[Combinations](https://leetcode-cn.com/problems/combinations/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/077.%20Combinations/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/077.%20Combinations/1.java)|To Do|
 |078|[Subsets](https://leetcode-cn.com/problems/subsets/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/078.%20Subsets/1.js)|[Java](https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms/078.%20Subsets/1.java)|To Do|
 |079|[Word Search](https://leetcode-cn.com/problems/word-search/description/) |Medium|To Do|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|To Do|
