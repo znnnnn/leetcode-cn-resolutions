@@ -19,7 +19,7 @@ class Config:
     # local_path = 'C:/Users/znnnnn/Desktop/leetcode-cn-resolutions'
     local_path = '/Users/znnnnn/Desktop/leetcode-cn-resolutions'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/znnnnn/leetcode-cn-resolutions/tree/master/leetcode-cn-algorithms'
+    github_leetcode_url = 'https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/'
     # solution of pat,　暂时还没写
     # github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode-cn.com/problems/'
