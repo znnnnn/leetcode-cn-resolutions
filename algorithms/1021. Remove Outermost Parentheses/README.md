@@ -4,7 +4,7 @@
  * @Author: znnnnn
  * @Date: 2019-07-20 20:20:09
  * @LastEditors: znnnnn
- * @LastEditTime: 2019-07-20 20:20:09
+ * @LastEditTime: 2019-08-18 23:41:24
  -->
 ### [1021\. 删除最外层的括号Copy for MarkdownCopy for MarkdownCopy for MarkdownCopy for MarkdownCopy for Markdown](https://leetcode-cn.com/problems/remove-outermost-parentheses/)
 
