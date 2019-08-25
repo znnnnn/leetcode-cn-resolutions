@@ -4,11 +4,11 @@
 @Author: znnnnn
 @Date: 2019-01-20 13:01:14
 @LastEditors: znnnnn
-@LastEditTime: 2019-01-20 13:01:14
+@LastEditTime: 2019-08-25 22:48:02
 '''
 #coding:utf-8
 #!/usr/bin/env python
-# Created by Bruce yuan on 18-1-22.
+# Bruce yuan Writed this `README generater` on 18-1-22.
 
 
 import requests
