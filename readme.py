@@ -4,7 +4,7 @@
 @Author: znnnnn
 @Date: 2019-01-20 13:01:14
 @LastEditors: znnnnn
-@LastEditTime: 2019-08-25 22:48:02
+@LastEditTime: 2019-09-02 15:50:49
 '''
 #coding:utf-8
 #!/usr/bin/env python
@@ -285,6 +285,6 @@ def main():
     table = TableInform()
     table.update_table('algorithms')
 
-
+# 主函数
 if __name__ == '__main__':
     main()
