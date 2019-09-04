@@ -1,3 +1,11 @@
+/*
+ * @Description: 
+ * @version: 
+ * @Author: znnnnn
+ * @Date: 2019-09-03 16:07:01
+ * @LastEditors: znnnnn
+ * @LastEditTime: 2019-09-04 22:50:54
+ */
 /**
  * @param {number[][]} matrix
  * @return {void} Do not return anything, modify matrix in-place instead.
@@ -10,7 +18,7 @@ let rotate = function(matrix) {
           matrix[y][x] = matrix[length - x][y];
           matrix[length - x][y] = matrix[length - y][length - x];
           matrix[length - y][length - x] = matrix[x][length - y]
-          matrix[x][length - y] = temp; 
+          matrix[x][length - y] = temp;
       }
   }
 };
