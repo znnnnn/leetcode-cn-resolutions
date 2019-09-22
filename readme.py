@@ -1,11 +1,3 @@
-'''
-@Description: 
-@version: 
-@Author: znnnnn
-@Date: 2019-01-20 13:01:14
-@LastEditors: Please set LastEditors
-@LastEditTime: 2019-09-04 22:47:42
-'''
 #coding:utf-8
 #!/usr/bin/env python
 # Bruce yuan Writed this `README generater` on 18-1-22.
