@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-09-22 19:38:06, I have solved **53** / **1107** problems while **181** are still locked.
+Until 2019-09-23 20:19:11, I have solved **55** / **1107** problems while **181** are still locked.
 
 Completion statistic: 
-1. JavaScript: 57 
+1. JavaScript: 60 
 2. Java: 31
 3. Python: 5
 
@@ -535,7 +535,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |554|[Brick Wall](https://leetcode-cn.com/problems/brick-wall/description/) |Medium|To Do|To Do|To Do|
 |555|[Split Concatenated Strings](https://leetcode-cn.com/problems/split-concatenated-strings/description/) :lock:|Medium|To Do|To Do|To Do|
 |556|[Next Greater Element III](https://leetcode-cn.com/problems/next-greater-element-iii/description/) |Medium|To Do|To Do|To Do|
-|557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|To Do|
+|557|[Reverse Words in a String III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/1.js)|To Do|To Do|
 |560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/description/) |Medium|To Do|To Do|To Do|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/description/) |Easy|To Do|To Do|To Do|
 |562|[Longest Line of Consecutive One in Matrix](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|To Do|To Do|To Do|
@@ -934,7 +934,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |970|[Powerful Integers](https://leetcode-cn.com/problems/powerful-integers/description/) |Easy|To Do|To Do|To Do|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal/description/) |Medium|To Do|To Do|To Do|
 |972|[Equal Rational Numbers](https://leetcode-cn.com/problems/equal-rational-numbers/description/) |Hard|To Do|To Do|To Do|
-|509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/description/) |Easy|To Do|To Do|To Do|
+|509|[Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/509.%20Fibonacci%20Number/2.js)|To Do|To Do|
 |973|[K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/description/) |Medium|To Do|To Do|To Do|
 |974|[Subarray Sums Divisible by K](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|
 |975|[Odd Even Jump](https://leetcode-cn.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|To Do|
