@@ -1,3 +1,6 @@
+/**
+ * @param {int} num 整数
+ */
 var findComplement = function(num) {
   let temp = num
   let c = 0
