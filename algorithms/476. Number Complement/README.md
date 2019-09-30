@@ -60,7 +60,10 @@ Difficulty: **简单**
 Language: **JavaScript**
 
 ```javascript
-​var findComplement = function(num) {
+/**
+ * @param {int} num 整数
+ */
+var findComplement = function(num) {
   let temp = num
   let c = 0
   while (temp > 0) {
@@ -69,4 +72,5 @@ Language: **JavaScript**
   }
   return num ^ c
 }
+
 ```
