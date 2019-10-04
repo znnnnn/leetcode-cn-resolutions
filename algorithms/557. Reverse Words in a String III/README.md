@@ -38,7 +38,7 @@ Language: **JavaScript**
  * @return {string}
  */
 var reverseWords = function(s) {
-    let words = s.split(' ')
-    return words.map(item => item.split('').reverse().join('')).join(' ')
+  let words = s.split(' ')
+  return words.map(item => item.split('').reverse().join('')).join(' ')
 };
 ```
