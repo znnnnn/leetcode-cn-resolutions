@@ -80,10 +80,12 @@ class TableInform:
             name = question['stat']['question__title']
             url = question['stat']['question__title_slug']
             id_ = str(question['stat']['frontend_question_id'])
-            if int(id_) < 10:
-                id_ = '00' + id_
-            elif int(id_) < 100:
-                id_ = '0' + id_
+            # print(id_, id_.startswith('LC'))
+            if(id_.startswith('LC') == 0):
+                if int(id_) < 10:
+                    id_ = '00' + id_
+                elif int(id_) < 100:
+                    id_ = '0' + id_
             lock = question['paid_only']
             if lock:
                 self.locked += 1
