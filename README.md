@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-10-10 19:33:46, I have solved **66** / **1126** problems while **186** are still locked.
+Until 2019-10-14 17:08:26, I have solved **67** / **1138** problems while **190** are still locked.
 
 Completion statistic: 
-1. JavaScript: 72 
+1. JavaScript: 73 
 2. Java: 31
 3. Python: 5
 
@@ -131,7 +131,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|To Do|To Do|To Do|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|To Do|
 |119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/description/) |Easy|To Do|To Do|To Do|
-|120|[Triangle](https://leetcode-cn.com/problems/triangle/description/) |Medium|To Do|To Do|To Do|
+|120|[Triangle](https://leetcode-cn.com/problems/triangle/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/1207.%20Unique%20Number%20of%20Occurrences/1.js)|To Do|To Do|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|
@@ -898,7 +898,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |934|[Shortest Bridge](https://leetcode-cn.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|To Do|
 |935|[Knight Dialer](https://leetcode-cn.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|
 |936|[Stamping The Sequence](https://leetcode-cn.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|
-|937|[Reorder Log Files](https://leetcode-cn.com/problems/reorder-log-files/description/) |Easy|To Do|To Do|To Do|
+|937|[Reorder Data in Log Files](https://leetcode-cn.com/problems/reorder-data-in-log-files/description/) |Easy|To Do|To Do|To Do|
 |938|[Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/description/) |Easy|To Do|To Do|To Do|
 |939|[Minimum Area Rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|
 |940|[Distinct Subsequences II](https://leetcode-cn.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|
@@ -1057,6 +1057,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1052|[Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/description/) |Medium|To Do|To Do|To Do|
 |1053|[Previous Permutation With One Swap](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/description/) |Medium|To Do|To Do|To Do|
 |1054|[Distant Barcodes](https://leetcode-cn.com/problems/distant-barcodes/description/) |Medium|To Do|To Do|To Do|
+|1196|[How Many Apples Can You Put into the Basket](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket/description/) :lock:|Easy|To Do|To Do|To Do|
+|1197|[Minimum Knight Moves](https://leetcode-cn.com/problems/minimum-knight-moves/description/) :lock:|Medium|To Do|To Do|To Do|
+|1198|[Find Smallest Common Element in All Rows](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows/description/) :lock:|Medium|To Do|To Do|To Do|
 |1168|[Optimize Water Distribution in a Village](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village/description/) :lock:|Hard|To Do|To Do|To Do|
 |1074|[Number of Submatrices That Sum to Target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/description/) |Hard|To Do|To Do|To Do|
 |1071|[Greatest Common Divisor of Strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/description/) |Easy|To Do|To Do|To Do|
@@ -1070,6 +1073,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths/description/) |Medium|To Do|To Do|To Do|
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/description/) |Medium|To Do|To Do|To Do|
 |1079|[Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/description/) |Medium|To Do|To Do|To Do|
+|1199|[Minimum Time to Build Blocks](https://leetcode-cn.com/problems/minimum-time-to-build-blocks/description/) :lock:|Hard|To Do|To Do|To Do|
 |1089|[Duplicate Zeros](https://leetcode-cn.com/problems/duplicate-zeros/description/) |Easy|To Do|To Do|To Do|
 |1090|[Largest Values From Labels](https://leetcode-cn.com/problems/largest-values-from-labels/description/) |Medium|To Do|To Do|To Do|
 |1092|[Shortest Common Supersequence ](https://leetcode-cn.com/problems/shortest-common-supersequence/description/) |Hard|To Do|To Do|To Do|
@@ -1124,6 +1128,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/) |Medium|To Do|To Do|To Do|
 |1191|[K-Concatenation Maximum Sum](https://leetcode-cn.com/problems/k-concatenation-maximum-sum/description/) |Medium|To Do|To Do|To Do|
 |1192|[Critical Connections in a Network](https://leetcode-cn.com/problems/critical-connections-in-a-network/description/) |Hard|To Do|To Do|To Do|
+|1200|[Minimum Absolute Difference](https://leetcode-cn.com/problems/minimum-absolute-difference/description/) |Easy|To Do|To Do|To Do|
+|1201|[Ugly Number III](https://leetcode-cn.com/problems/ugly-number-iii/description/) |Medium|To Do|To Do|To Do|
+|1202|[Smallest String With Swaps](https://leetcode-cn.com/problems/smallest-string-with-swaps/description/) |Medium|To Do|To Do|To Do|
+|1203|[Sort Items by Groups Respecting Dependencies](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/description/) |Hard|To Do|To Do|To Do|
 |1207|[Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/description/) |Easy|To Do|To Do|To Do|
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/) |Medium|To Do|To Do|To Do|
 |1208|[Get Equal Substrings Within Budget](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/description/) |Medium|To Do|To Do|To Do|
@@ -1133,6 +1141,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |1219|[Path with Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/description/) |Medium|To Do|To Do|To Do|
 |1220|[Count Vowels Permutation](https://leetcode-cn.com/problems/count-vowels-permutation/description/) |Hard|To Do|To Do|To Do|
 |1206|[Design Skiplist](https://leetcode-cn.com/problems/design-skiplist/description/) |Hard|To Do|To Do|To Do|
+|5222|[Split a String in Balanced Strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/description/) |Easy|To Do|To Do|To Do|
+|5223|[Queens That Can Attack the King](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/description/) |Medium|To Do|To Do|To Do|
+|5224|[Dice Roll Simulation](https://leetcode-cn.com/problems/dice-roll-simulation/description/) |Medium|To Do|To Do|To Do|
+|5225|[Maximum Equal Frequency](https://leetcode-cn.com/problems/maximum-equal-frequency/description/) |Hard|To Do|To Do|To Do|
 |LCP 2|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction/description/) |Easy|To Do|To Do|To Do|
 |LCP 4|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes/description/) |Hard|To Do|To Do|To Do|
 |LCP 5|[Coin Bonus](https://leetcode-cn.com/problems/coin-bonus/description/) |Hard|To Do|To Do|To Do|
