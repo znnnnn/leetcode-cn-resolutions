@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-10-14 17:08:26, I have solved **67** / **1138** problems while **190** are still locked.
+Until 2019-10-14 17:09:57, I have solved **68** / **1138** problems while **190** are still locked.
 
 Completion statistic: 
-1. JavaScript: 73 
+1. JavaScript: 74 
 2. Java: 31
 3. Python: 5
 
@@ -503,7 +503,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |518|[Coin Change 2](https://leetcode-cn.com/problems/coin-change-2/description/) |Medium|To Do|To Do|To Do|
 |520|[Detect Capital](https://leetcode-cn.com/problems/detect-capital/description/) |Easy|To Do|To Do|To Do|
 |521|[Longest Uncommon Subsequence I ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) |Easy|To Do|To Do|To Do|
-|522|[Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|To Do|
+|522|[Longest Uncommon Subsequence II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/5222.%20Split%20a%20String%20in%20Balanced%20Strings/1.js)|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/description/) |Medium|To Do|To Do|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|To Do|
 |525|[Contiguous Array](https://leetcode-cn.com/problems/contiguous-array/description/) |Medium|To Do|To Do|To Do|
