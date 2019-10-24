@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-10-23 19:27:31, I have solved **75** / **1147** problems while **195** are still locked.
+Until 2019-10-24 21:18:36, I have solved **76** / **1147** problems while **195** are still locked.
 
 Completion statistic: 
-1. JavaScript: 81 
+1. JavaScript: 82 
 2. Java: 31
 3. Python: 5
 
@@ -772,7 +772,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |819|[Most Common Word](https://leetcode-cn.com/problems/most-common-word/description/) |Easy|To Do|To Do|To Do|
 |707|[Design Linked List](https://leetcode-cn.com/problems/design-linked-list/description/) |Medium|To Do|To Do|To Do|
 |820|[Short Encoding of Words](https://leetcode-cn.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|To Do|
-|821|[Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/) |Easy|To Do|To Do|To Do|
+|821|[Shortest Distance to a Character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/821.%20Shortest%20Distance%20to%20a%20Character/1.js)|To Do|To Do|
 |822|[Card Flipping Game](https://leetcode-cn.com/problems/card-flipping-game/description/) |Medium|To Do|To Do|To Do|
 |823|[Binary Trees With Factors](https://leetcode-cn.com/problems/binary-trees-with-factors/description/) |Medium|To Do|To Do|To Do|
 |708|[Insert into a Cyclic Sorted List](https://leetcode-cn.com/problems/insert-into-a-cyclic-sorted-list/description/) :lock:|Medium|To Do|To Do|To Do|
