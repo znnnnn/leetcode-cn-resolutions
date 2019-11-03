@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2019-10-24 21:18:36, I have solved **76** / **1147** problems while **195** are still locked.
+Until 2019-11-03 23:39:37, I have solved **77** / **1160** problems while **195** are still locked.
 
 Completion statistic: 
-1. JavaScript: 82 
+1. JavaScript: 83 
 2. Java: 31
 3. Python: 5
 
@@ -696,7 +696,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |759|[Employee Free Time](https://leetcode-cn.com/problems/employee-free-time/description/) :lock:|Hard|To Do|To Do|To Do|
 |760|[Find Anagram Mappings](https://leetcode-cn.com/problems/find-anagram-mappings/description/) :lock:|Easy|To Do|To Do|To Do|
 |761|[Special Binary String](https://leetcode-cn.com/problems/special-binary-string/description/) |Hard|To Do|To Do|To Do|
-|429|[N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|To Do|To Do|To Do|
+|429|[N-ary Tree Level Order Traversal](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/description/) |Medium|To Do|To Do|To Do|
 |428|[Serialize and Deserialize N-ary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/description/) :lock:|Hard|To Do|To Do|To Do|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/description/) |Medium|To Do|To Do|To Do|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|To Do|To Do|To Do|
@@ -732,7 +732,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |781|[Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/description/) |Medium|To Do|To Do|To Do|
 |782|[Transform to Chessboard](https://leetcode-cn.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|
 |783|[Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|
-|784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/) |Easy|To Do|To Do|To Do|
+|784|[Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/description/) |Easy|[JavaScript](https://github.com/znnnnn/leetcode-cn-resolutions/blob/master/algorithms/784.%20Letter%20Case%20Permutation/1.js)|To Do|To Do|
 |785|[Is Graph Bipartite?](https://leetcode-cn.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|
@@ -1081,6 +1081,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |1090|[Largest Values From Labels](https://leetcode-cn.com/problems/largest-values-from-labels/description/) |Medium|To Do|To Do|To Do|
 |1092|[Shortest Common Supersequence ](https://leetcode-cn.com/problems/shortest-common-supersequence/description/) |Hard|To Do|To Do|To Do|
 |1091|[Shortest Path in Binary Matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/description/) |Medium|To Do|To Do|To Do|
+|1243|[Array Transformation](https://leetcode-cn.com/problems/array-transformation/description/) |Easy|To Do|To Do|To Do|
+|1244|[Design A Leaderboard](https://leetcode-cn.com/problems/design-a-leaderboard/description/) |Medium|To Do|To Do|To Do|
+|1245|[Tree Diameter](https://leetcode-cn.com/problems/tree-diameter/description/) |Medium|To Do|To Do|To Do|
 |1216|[Valid Palindrome III](https://leetcode-cn.com/problems/valid-palindrome-iii/description/) :lock:|Hard|To Do|To Do|To Do|
 |1093|[Statistics from a Large Sample](https://leetcode-cn.com/problems/statistics-from-a-large-sample/description/) |Medium|To Do|To Do|To Do|
 |1094|[Car Pooling](https://leetcode-cn.com/problems/car-pooling/description/) |Medium|To Do|To Do|To Do|
@@ -1091,6 +1094,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |1103|[Distribute Candies to People](https://leetcode-cn.com/problems/distribute-candies-to-people/description/) |Easy|To Do|To Do|To Do|
 |1105|[Filling Bookcase Shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/description/) |Medium|To Do|To Do|To Do|
 |1106|[Parsing A Boolean Expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression/description/) |Hard|To Do|To Do|To Do|
+|1246|[Palindrome Removal](https://leetcode-cn.com/problems/palindrome-removal/description/) |Hard|To Do|To Do|To Do|
 |1108|[Defanging an IP Address](https://leetcode-cn.com/problems/defanging-an-ip-address/description/) |Easy|To Do|To Do|To Do|
 |1109|[Corporate Flight Bookings](https://leetcode-cn.com/problems/corporate-flight-bookings/description/) |Medium|To Do|To Do|To Do|
 |1110|[Delete Nodes And Return Forest](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/description/) |Medium|To Do|To Do|To Do|
@@ -1154,6 +1158,15 @@ Note: :lock: means you need to buy a book from LeetCode
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem/description/) |Medium|To Do|To Do|To Do|
 |1234|[Replace the Substring for Balanced String](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/description/) |Medium|To Do|To Do|To Do|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/description/) |Hard|To Do|To Do|To Do|
+|1237|[Find Positive Integer Solution for a Given Equation](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/description/) |Easy|To Do|To Do|To Do|
+|1238|[Circular Permutation in Binary Representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/description/) |Medium|To Do|To Do|To Do|
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) |Medium|To Do|To Do|To Do|
+|1240|[Tiling a Rectangle with the Fewest Squares](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/description/) |Hard|To Do|To Do|To Do|
+|1227|[Airplane Seat Assignment Probability](https://leetcode-cn.com/problems/airplane-seat-assignment-probability/description/) |Medium|To Do|To Do|To Do|
+|1247|[Minimum Swaps to Make Strings Equal](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/description/) |Easy|To Do|To Do|To Do|
+|1248|[Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/description/) |Medium|To Do|To Do|To Do|
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/description/) |Medium|To Do|To Do|To Do|
+|1250|[Check If It Is a Good Array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/description/) |Hard|To Do|To Do|To Do|
 |LCP 2|[Deep Dark Fraction](https://leetcode-cn.com/problems/deep-dark-fraction/description/) |Easy|To Do|To Do|To Do|
 |LCP 4|[Broken Board Dominoes](https://leetcode-cn.com/problems/broken-board-dominoes/description/) |Hard|To Do|To Do|To Do|
 |LCP 5|[Coin Bonus](https://leetcode-cn.com/problems/coin-bonus/description/) |Hard|To Do|To Do|To Do|
